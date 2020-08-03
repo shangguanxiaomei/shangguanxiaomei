@@ -6,6 +6,15 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="5b80739a-134b-4b66-8aad-36b180406fe4" data-share-badge-host="https://www.youracclaim.com"></div>
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
