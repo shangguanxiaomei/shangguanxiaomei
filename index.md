@@ -15,3 +15,7 @@
 
 [AWS Certified DevOps Engineer – Professional  --  2020](https://www.youracclaim.com/badges/5b80739a-134b-4b66-8aad-36b180406fe4/public_url "Click to verify")
 
+
+### Recently completed projects
+
+
