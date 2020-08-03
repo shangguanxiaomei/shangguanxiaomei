@@ -11,13 +11,15 @@
     </td>
     <td width="75%">
       <h6>CERTIFICATIONS</h6>
-      <p><b>Oracle Certified Professional, Java SE 8 Programmer</b></p>
+      <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="205f6ffe-299a-47a1-9fa3-57c7377ad065" data-share-badge-host="https://www.youracclaim.com"></div>       <script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
       <p><b>Oracle Database SQL Certified Associate</b></p>
       <p><b>AWS Certified DevOps Engineer – Professional</b></p>      
     </td>
+    <!--
     <td width="25%">
-      <img src="/zhengjianzhao.jpg" width="100%">      % 插入证件照代码
+      <img src="/zhengjianzhao.jpg" width="100%">      % insert pics
     </td>
+  -->
   </tr>
 </table>
 
