@@ -19,7 +19,7 @@
 
 ### Recently completed projects
 
-lalala
+blablabla...
  
  
 <!--
