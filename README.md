@@ -20,6 +20,8 @@
 ### Recently completed projects
 
 blablabla...
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=shangguanxiaomei)](https://github.com/anuraghazra/github-readme-stats)
  
  
 <!--
