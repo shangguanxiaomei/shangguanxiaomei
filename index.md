@@ -1,4 +1,4 @@
-## Welcome to Caleb Zhang's  HomePages
+## Welcome to Caleb Zhang's HomePages
 
 * Accomplished Full Stack Software Engineer with two years’ experience in `Java`
 * Expert knowledge in `Spring`, `Spring Boot`, `Spring Cloud Netflix`, `Microservices` and `RESTful API`
