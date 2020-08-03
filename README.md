@@ -3,6 +3,9 @@
  <img markdown =1 src="https://github.com/shangguanxiaomei/Imageshare/raw/master/20200803%20Homepage/oracle-certified-associate-java-se-8-programmer.png" width = "50" height = "50" alt="图片名称" align=center />  <a href="https://www.youracclaim.com/badges/1e369a12-0a05-488e-8dc9-760b16efc364/public_url">Oracle Certified Associate, Java SE 8 Programmer</a> 
 
 
+
+ <img markdown =1 src="https://github.com/shangguanxiaomei/Imageshare/raw/master/20200803%20Homepage/oracle-certified-associate-java-se-8-programmer.png" width = "50" height = "50" alt="图片名称" align=center /> [Oracle Certified Associate, Java SE 8 Programmer](https://www.youracclaim.com/badges/1e369a12-0a05-488e-8dc9-760b16efc364/public_url "click to verify")
+ 
 <!--
 **shangguanxiaomei/shangguanxiaomei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
