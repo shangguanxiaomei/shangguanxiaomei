@@ -5,6 +5,7 @@
 * Rich experience in web development with `Angular`, `JavaScript`, `HTML`, `CSS`
 * Proficient in `Oracle SQL`, `Spring Data JPA`, `Hibernate`, `JDBC` and `Servlet`
 
+
 ### Certifications
 [Oracle Certified Associate, Java SE 8 Programmer  --  2019](https://www.youracclaim.com/badges/1e369a12-0a05-488e-8dc9-760b16efc364/public_url "Click to verify")
 
