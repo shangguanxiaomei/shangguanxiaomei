@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-| <img markdown =1 src="https://github.com/shangguanxiaomei/Imageshare/raw/master/20200803%20Homepage/oracle-certified-associate-java-se-8-programmer.png" width = "100" height = "100" alt="图片名称" align=center /> | <a href="https://www.youracclaim.com/badges/1e369a12-0a05-488e-8dc9-760b16efc364/public_url">Oracle Certified Associate, Java SE 8 Programmer</a> |
+| <img markdown =1 src="https://github.com/shangguanxiaomei/Imageshare/raw/master/20200803%20Homepage/oracle-certified-associate-java-se-8-programmer.png" width = "25" height = "25" alt="图片名称" align=center /> | <a href="https://www.youracclaim.com/badges/1e369a12-0a05-488e-8dc9-760b16efc364/public_url">Oracle Certified Associate, Java SE 8 Programmer</a> |
 
 
 <!--
