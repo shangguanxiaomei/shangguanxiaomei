@@ -19,7 +19,10 @@
 
 ### Recently completed projects
 
-blablabla...
+* [My Post system](https://github.com/shangguanxiaomei/My-Post-System)
+-- An angular & Spring Boot project.
+* [Tetris](https://github.com/shangguanxiaomei/Tetris)
+-- A core Java 8 project.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=shangguanxiaomei&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
  
