@@ -19,8 +19,8 @@
 
 ### Recently completed projects
 
-* [My Post system](https://github.com/shangguanxiaomei/My-Post-System)<br>
--- An angular & Spring Boot project.
+* [Math-Test](https://github.com/shangguanxiaomei/Math-Test)<br>
+-- An core Java project used to help math study.
 <br><br>
 * [Tetris](https://github.com/shangguanxiaomei/Tetris)<br>
  -- A core Java 8 project.
