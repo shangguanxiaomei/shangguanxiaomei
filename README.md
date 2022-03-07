@@ -1,7 +1,7 @@
 ### Summary
 
-* Accomplished Full Stack Software Engineer with two years’ experience in `Java`
-* Expert knowledge in `Spring`, `Spring Boot`, `Spring Cloud Netflix`, `Microservices` and `RESTful API`
+* Accomplished Full Stack Software Engineer with three years’ experience in `Java`
+* Expert knowledge in `Spring`, `Spring Boot`, `Spring Cloud Netflix`, `Microservices`, `RESTful API` and `JSON`
 * Rich experience in web development with `Angular`, `JavaScript`, `HTML`, `CSS`
 * Proficient in `Oracle SQL`, `Spring Data JPA`, `Hibernate`, `JDBC` and `Servlet`  
   
